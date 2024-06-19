@@ -16,3 +16,5 @@ f
 6src/test/java/global/goit/edu/unicalc/UniCalcTest.java,b\9\b9949033c574638452eac3acf39ebc95ffa4b793
 b
 2src/main/java/global/goit/edu/unicalc/UniCalc.java,5\0\507740e19741ee90bf1a06e12fed3107b4addf0c
+j
+:src/test/java/global/goit/edu/unicalc/UniCalcMathTest.java,6\2\6236324f1aef17cf34e95e2b682487ba46bf8fcc
